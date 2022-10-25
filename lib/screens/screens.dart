@@ -1,0 +1,9 @@
+export 'package:frontend_design/screens/basic_design.dart';
+export 'package:frontend_design/screens/check_auth.dart';
+export 'package:frontend_design/screens/complete_design.dart';
+export 'package:frontend_design/screens/home.dart';
+export 'package:frontend_design/screens/instructions.dart';
+export 'package:frontend_design/screens/login.dart';
+export 'package:frontend_design/screens/register.dart';
+export 'package:frontend_design/screens/scroll_design.dart';
+export 'package:frontend_design/screens/settings.dart';
