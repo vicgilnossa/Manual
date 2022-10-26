@@ -1,6 +1,6 @@
-# frontend_design
+# Instructions on mobile
 
-A new Flutter project.
+Layout exercise in Flutter based on the design of a good friend. It is a very dynamic bike device tutorial to explore swipers and widgets combined to display information in a fun way. Authentication with FireBase.
 
 ## Getting Started
 
